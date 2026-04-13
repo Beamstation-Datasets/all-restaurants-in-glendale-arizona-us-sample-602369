@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Glendale, Arizona with a population of over 248k. This dataset includes every active restaurant listing filtered by the Restaurants category group, with business profiles, review analytics, competitive rankings, and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Glendale, Arizona, US",
+  "export_job_id": "27134951-abe8-48fb-90fd-da3fb9cddeaa",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 602369,
+  "location_name": "Glendale",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-glendale-arizona-us-sample-602369",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/602369/beamstation_602369_restaurants-us-az_SAMPLE_DIST.csv",
+  "sample_pct": 5.87,
+  "sample_records": 25,
+  "sample_sha256": "ce7c7cb7b621f42a484aace6b52db6adfea4262790ba207184366f2e8f3f3c8d",
+  "sample_size_bytes": 113215,
+  "total_records": 426,
+  "updated_at": "2026-03-31T16:03:27.724281+00:00"
+}
