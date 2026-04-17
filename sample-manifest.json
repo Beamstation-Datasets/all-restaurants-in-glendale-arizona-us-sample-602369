@@ -1,12 +1,12 @@
 {
-  "export_job_id": "27134951-abe8-48fb-90fd-da3fb9cddeaa",
+  "export_job_id": "ea87209b-dd4c-44c6-9d8c-0a0ab6bfebfa",
   "id_short": 602369,
-  "published_at": "2026-04-13T19:54:13Z",
+  "published_at": "2026-04-17T19:43:18Z",
   "repo_name": "all-restaurants-in-glendale-arizona-us-sample-602369",
   "sample_asset_name": "beamstation_602369_restaurants-us-az_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/602369/beamstation_602369_restaurants-us-az_SAMPLE_DIST.csv",
-  "sample_records": 25,
-  "sample_sha256": "ce7c7cb7b621f42a484aace6b52db6adfea4262790ba207184366f2e8f3f3c8d",
-  "sample_size_bytes": 113215,
-  "total_records": 426
+  "sample_records": 70,
+  "sample_sha256": "a227d850d82aa8a26219f5a2e250757abb0879ab7224c1abef2719bca92bd906",
+  "sample_size_bytes": 239914,
+  "total_records": 704
 }
