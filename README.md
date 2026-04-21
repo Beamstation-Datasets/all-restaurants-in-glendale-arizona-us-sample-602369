@@ -1,6 +1,6 @@
 # All Restaurants in Glendale, Arizona, US
 
-> Free BeamStation sample export with 70 rows and masked direct-contact fields.
+> Free BeamStation sample export with 58 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `602369` |
 | Location | Glendale |
 | Category | Restaurants |
-| Full dataset size | 704 records |
-| Free sample size | 70 records (9.94%) |
-| Last export | 2026-04-14T16:50:02.895262+00:00 |
+| Full dataset size | 580 records |
+| Free sample size | 58 records (10.0%) |
+| Last export | 2026-04-21T18:21:21.741225+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-glendale-arizona-us-sample-602369/releases/download/sample-latest/beamstation_602369_restaurants-us-az_SAMPLE_DIST.csv) |
 
 ## What is in this sample
